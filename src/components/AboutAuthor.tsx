@@ -14,8 +14,11 @@ const AboutAuthor = () => {
             </div>
 
             <h3 className="text-xl font-bold mb-4">
-              Студент РГПУ им. А. И. Герцена
+              Титова Елизавета Евгеньевна
             </h3>
+            <p className="text-base mb-2 font-medium opacity-95">
+              Студент РГПУ им. А. И. Герцена
+            </p>
             <p className="text-lg mb-6 opacity-90 leading-relaxed">
               Я учусь в РГПУ им. А. И. Герцена в Институте экономики и
               управления и активно интересуюсь тем, как искусственный интеллект
