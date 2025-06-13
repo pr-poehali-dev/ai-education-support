@@ -17,7 +17,7 @@ const AboutAuthor = () => {
               Титова Елизавета Евгеньевна
             </h3>
             <p className="text-base mb-2 font-medium opacity-95">
-              Студент РГПУ им. А. И. Герцена
+              Студентка РГПУ им. А. И. Герцена
             </p>
             <p className="text-lg mb-6 opacity-90 leading-relaxed">
               Я учусь в РГПУ им. А. И. Герцена в Институте экономики и
