@@ -3,7 +3,7 @@ import Header from "@/components/Header";
 import OpportunityCard from "@/components/OpportunityCard";
 import RisksSection from "@/components/RisksSection";
 import BestPractices from "@/components/BestPractices";
-import Conclusion from "@/components/Conclusion";
+import AboutAuthor from "@/components/AboutAuthor";
 
 const Index = () => {
   const opportunities = [
@@ -80,7 +80,7 @@ const Index = () => {
 
       <RisksSection />
       <BestPractices />
-      <Conclusion />
+      <AboutAuthor />
     </div>
   );
 };
